@@ -1,1 +1,1 @@
-leqarned to push local repo content to remote repo
+learned to push local repo content to remote repo
